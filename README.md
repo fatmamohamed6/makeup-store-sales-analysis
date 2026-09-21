@@ -26,5 +26,5 @@ Sales analysis project using SQL Server and Power BI.
 
 ## Dashboard
 
-![Makeup Store Sales Dashboard](Dashboard/dashboard.png)
+![Makeup Store Sales Dashboard](dashboard.png)
 
